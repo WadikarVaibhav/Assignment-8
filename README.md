@@ -3,7 +3,8 @@ Javascript Part III
 
 # Technologies
 1. Javascript
-2. HTTP
+2. HTML
+3. CSS
 
 # Editor
  1. Visual Studio Code
